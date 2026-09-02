@@ -5,7 +5,7 @@
 
 <!-- 顶部横幅 -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0x8B5CF6,0x0EA5E9&height=210&section=header&text=Hi%2C%20I'm%20binarybard%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&anim=twinkling&desc=%E5%9C%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%20%7C%20%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%20%7C%20AI%20%E5%BA%94%E7%94%A8&descSize=18&descAlignY=68" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0x8B5CF6,0x0EA5E9&height=210&section=header&text=Hi%2C%20I'm%20binarybard%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&desc=%E5%9C%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%20%7C%20%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%20%7C%20AI%20%E5%BA%94%E7%94%A8&descSize=18&descAlignY=68" alt="header" />
 </div>
 
 ## 🙋 关于我
@@ -25,8 +25,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=duyanta123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyanta123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duyanta123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duyanta123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=duyanta123&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
